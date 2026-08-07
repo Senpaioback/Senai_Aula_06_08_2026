@@ -1,0 +1,19 @@
+﻿id,nome,email,cidade,idade,salario
+1,Ana Souza,ana.souza@email.com,Vitória,28,2800
+2,Bruno Lima,bruno.lima@email.com,Serra,35,4200
+3,Carla Mendes,carla.mendes@email.com,Vila Velha,42,
+4,Daniel Alves,daniel.alves@email.com,Cariacica,19,1900
+5,Eduarda Rocha,eduarda.rocha@email.com,Vitória,31,3500
+6,Felipe Santos,felipe.santos@email.com,Serra,150,5100
+7,Gabriela Costa,gabriela.costa@email.com,Vila Velha,26,
+8,Henrique Martins,henrique.martins@email.com,Vitória,-5,2700
+9,Isabela Ferreira,isabela.ferreira@email.com,Cariacica,48,6200
+10,João Oliveira,joao.oliveira@email.com,Serra,22,2300
+11,Larissa Gomes,larissa.gomes@email.com,Vitória,37,3900
+12,Marcos Ribeiro,marcos.ribeiro@email.com,Vila Velha,55,7500
+13,Natália Moraes,natalia.moraes@email.com,Cariacica,29,
+14,Pedro Henrique,pedro.henrique@email.com,Serra,17,1500
+15,Rafaela Nunes,rafaela.nunes@email.com,Vitória,63,4800
+2,Bruno Lima,bruno.lima@email.com,Serra,35,4200
+5,Eduarda Rocha,eduarda.rocha@email.com,Vitória,31,3500
+10,João Oliveira,joao.oliveira@email.com,Serra,22,2300
